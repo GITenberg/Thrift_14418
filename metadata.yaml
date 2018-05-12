@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
 description: '"This book is intended as a sequel to ''Self-help'', and ''Character''."
   - Pref.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14418#Thrift
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
 identifiers:
